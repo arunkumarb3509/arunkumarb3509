@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arunkumar.B</h1>
 <h3 align="center">A passionate Software Engineer | Full Stack Developer from Salem, Tamil Nadu, India</h3>
 
-- 🔭 I’m currently working on **E-Commerce Web Application**
-
 - 🌱 I’m currently learning **ReactJS**
 
 - 👨‍💻 All of my projects are available at [https://personal-portfolio-aruns-projects-565d5d9e.vercel.app/](https://personal-portfolio-aruns-projects-565d5d9e.vercel.app/)
