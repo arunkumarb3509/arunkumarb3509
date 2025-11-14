@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 👨‍💻 All of my projects are available at [https://personal-portfolio-aruns-projects-565d5d9e.vercel.app/](https://personal-portfolio-aruns-projects-565d5d9e.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://personal-portfolio-l745v6g3g-aruns-projects-565d5d9e.vercel.app/](https://personal-portfolio-l745v6g3g-aruns-projects-565d5d9e.vercel.app/)
 
 - 📫 How to reach me **arunkumarb3509@gmail.com**
 
